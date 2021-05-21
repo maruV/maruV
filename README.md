@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @maruV
 - 👀 I’m interested in Full-Stack Development = Java + ReactJs + Scss
 - 🌱 I’m currently learning Microservices + Advanced Styling
-- 💞️ I’m looking to collaborate on ideas related to solving social issues.
+- 💞️ I’m looking to collaborate on ideas that try to solve social issues.
 - 📫 How to reach me maruvishal35@gmail.com + https://www.linkedin.com/in/vishal-maru-it/ 
 
 <!---
